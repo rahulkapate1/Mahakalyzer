@@ -74,7 +74,7 @@ pip install -r requirements.txt
 
 1. Launch the GUI:
    ```bash
-   python mahakalyzer_gui.py
+   python mahakalyzer.py
    ```
 2. Use the intuitive interface to upload files, select analysis types, and generate reports.
 
