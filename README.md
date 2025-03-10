@@ -93,7 +93,7 @@ We welcome contributions from the community! To contribute:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Cybersecurityrahul License]([LICENSE](https://cybersecurityrahul.in)).
 
 ---
 
